@@ -1,0 +1,14 @@
+body {
+  font-family: sans-serif;
+  background: #1e1e1e;
+  color: #f0f0f0;
+  padding: 20px;
+}
+
+h1 {
+  color: #66ccff;
+}
+
+#loadout-container {
+  margin-top: 20px;
+}
